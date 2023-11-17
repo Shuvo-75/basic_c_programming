@@ -1,0 +1,1 @@
+{"name":"Local: fake","url":"e:\\Phitron\\Module 15.5 (Practice)\\fake.c","tests":[{"id":1699630272761,"input":"5\n10 20 30 40 50","output":"10 20 30 40 100"},{"id":1699630280151,"input":"3\n1 2 3","output":"1 2 100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module 15.5 (Practice)\\fake.c","group":"local","local":true}
