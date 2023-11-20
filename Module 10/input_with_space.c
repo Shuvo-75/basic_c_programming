@@ -6,6 +6,7 @@ int main()
     fgets(a, 21, stdin);
     a[19] = '\0';
     printf("%s", a);
+    printf("%d", strlen(a));
     return 0;   
 }
 

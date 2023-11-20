@@ -1,1 +1,1 @@
-{"name":"Local: fake","url":"e:\\Phitron\\Module 20 (Final Exam)\\fake.c","tests":[{"id":1700154256063,"input":"3 4\n1 2 3 4\n5 6 7 8\n6 5 4 2","output":"6 5 4 2\n4 8 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module 20 (Final Exam)\\fake.c","group":"local","local":true}
+{"name":"Local: fake","url":"e:\\Phitron\\Module 20 (Final Exam)\\fake.c","tests":[],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\Module 20 (Final Exam)\\fake.c","group":"local","local":true}
